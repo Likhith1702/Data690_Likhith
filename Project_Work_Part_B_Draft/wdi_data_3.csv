@@ -1,0 +1,85 @@
+,Year,value,indicator,Country Code,Country Name,Region,Income Group,Lending Type
+0,2010,39.8706855567,EN.CO2.ETOT.ZS,CAN,Canada,North America,High income,Not classified
+1,2011,38.8201481813,EN.CO2.ETOT.ZS,CAN,Canada,North America,High income,Not classified
+2,2012,39.3075204765,EN.CO2.ETOT.ZS,CAN,Canada,North America,High income,Not classified
+3,2013,39.3508832572,EN.CO2.ETOT.ZS,CAN,Canada,North America,High income,Not classified
+4,2014,38.7292718097,EN.CO2.ETOT.ZS,CAN,Canada,North America,High income,Not classified
+5,2010,51.5682394691,EN.CO2.ETOT.ZS,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+6,2011,52.3909037212,EN.CO2.ETOT.ZS,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+7,2012,52.5268038283,EN.CO2.ETOT.ZS,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+8,2013,53.1564628729,EN.CO2.ETOT.ZS,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+9,2014,52.253008707,EN.CO2.ETOT.ZS,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+10,2010,51.5028916237,EN.CO2.ETOT.ZS,IND,India,South Asia,Lower middle income,IBRD
+11,2011,51.7642068537,EN.CO2.ETOT.ZS,IND,India,South Asia,Lower middle income,IBRD
+12,2012,53.4426723849,EN.CO2.ETOT.ZS,IND,India,South Asia,Lower middle income,IBRD
+13,2013,52.3179987692,EN.CO2.ETOT.ZS,IND,India,South Asia,Lower middle income,IBRD
+14,2014,53.6052919536,EN.CO2.ETOT.ZS,IND,India,South Asia,Lower middle income,IBRD
+15,2010,48.7971872341,EN.CO2.ETOT.ZS,USA,United States,North America,High income,Not classified
+16,2011,48.2274307821,EN.CO2.ETOT.ZS,USA,United States,North America,High income,Not classified
+17,2012,46.9523478261,EN.CO2.ETOT.ZS,USA,United States,North America,High income,Not classified
+18,2013,46.630819667,EN.CO2.ETOT.ZS,USA,United States,North America,High income,Not classified
+19,2014,45.9904061079,EN.CO2.ETOT.ZS,USA,United States,North America,High income,Not classified
+20,2010,15.7339140263,EN.ATM.CO2E.PC,CAN,Canada,North America,High income,Not classified
+21,2011,15.9502247685,EN.ATM.CO2E.PC,CAN,Canada,North America,High income,Not classified
+22,2012,15.761263496,EN.ATM.CO2E.PC,CAN,Canada,North America,High income,Not classified
+23,2013,15.8581287083,EN.ATM.CO2E.PC,CAN,Canada,North America,High income,Not classified
+24,2014,15.8541384273,EN.ATM.CO2E.PC,CAN,Canada,North America,High income,Not classified
+25,2015,15.651386156000001,EN.ATM.CO2E.PC,CAN,Canada,North America,High income,Not classified
+26,2016,15.2447471768,EN.ATM.CO2E.PC,CAN,Canada,North America,High income,Not classified
+27,2017,15.385291047700001,EN.ATM.CO2E.PC,CAN,Canada,North America,High income,Not classified
+28,2018,15.4970252672,EN.ATM.CO2E.PC,CAN,Canada,North America,High income,Not classified
+29,2010,6.332165911,EN.ATM.CO2E.PC,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+30,2011,6.9027921406,EN.ATM.CO2E.PC,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+31,2012,7.0580034723,EN.ATM.CO2E.PC,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+32,2013,7.3204850521000004,EN.ATM.CO2E.PC,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+33,2014,7.2529191436,EN.ATM.CO2E.PC,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+34,2015,7.1691121775,EN.ATM.CO2E.PC,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+35,2016,7.1187054143,EN.ATM.CO2E.PC,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+36,2017,7.2257689908,EN.ATM.CO2E.PC,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+37,2018,7.4052113475,EN.ATM.CO2E.PC,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+38,2010,1.3492144658,EN.ATM.CO2E.PC,IND,India,South Asia,Lower middle income,IBRD
+39,2011,1.4083155928,EN.ATM.CO2E.PC,IND,India,South Asia,Lower middle income,IBRD
+40,2012,1.5078209749,EN.ATM.CO2E.PC,IND,India,South Asia,Lower middle income,IBRD
+41,2013,1.5355600591,EN.ATM.CO2E.PC,IND,India,South Asia,Lower middle income,IBRD
+42,2014,1.6493275188,EN.ATM.CO2E.PC,IND,India,South Asia,Lower middle income,IBRD
+43,2015,1.6411983927,EN.ATM.CO2E.PC,IND,India,South Asia,Lower middle income,IBRD
+44,2016,1.6483590531,EN.ATM.CO2E.PC,IND,India,South Asia,Lower middle income,IBRD
+45,2017,1.7191902004,EN.ATM.CO2E.PC,IND,India,South Asia,Lower middle income,IBRD
+46,2018,1.7998254458,EN.ATM.CO2E.PC,IND,India,South Asia,Lower middle income,IBRD
+47,2010,17.4341958733,EN.ATM.CO2E.PC,USA,United States,North America,High income,Not classified
+48,2011,16.5994037405,EN.ATM.CO2E.PC,USA,United States,North America,High income,Not classified
+49,2012,15.7711446188,EN.ATM.CO2E.PC,USA,United States,North America,High income,Not classified
+50,2013,16.1029578354,EN.ATM.CO2E.PC,USA,United States,North America,High income,Not classified
+51,2014,16.0263790723,EN.ATM.CO2E.PC,USA,United States,North America,High income,Not classified
+52,2015,15.5353421106,EN.ATM.CO2E.PC,USA,United States,North America,High income,Not classified
+53,2016,15.1317468158,EN.ATM.CO2E.PC,USA,United States,North America,High income,Not classified
+54,2017,14.8058824221,EN.ATM.CO2E.PC,USA,United States,North America,High income,Not classified
+55,2018,15.2408745833,EN.ATM.CO2E.PC,USA,United States,North America,High income,Not classified
+56,2010,16.2552079323,EN.ATM.CO2E.SF.ZS,CAN,Canada,North America,High income,Not classified
+57,2011,14.1700239173,EN.ATM.CO2E.SF.ZS,CAN,Canada,North America,High income,Not classified
+58,2012,13.8043643309,EN.ATM.CO2E.SF.ZS,CAN,Canada,North America,High income,Not classified
+59,2013,12.4270006291,EN.ATM.CO2E.SF.ZS,CAN,Canada,North America,High income,Not classified
+60,2014,13.3474805546,EN.ATM.CO2E.SF.ZS,CAN,Canada,North America,High income,Not classified
+61,2015,12.6468188976,EN.ATM.CO2E.SF.ZS,CAN,Canada,North America,High income,Not classified
+62,2016,11.964646672,EN.ATM.CO2E.SF.ZS,CAN,Canada,North America,High income,Not classified
+63,2010,77.6119190444,EN.ATM.CO2E.SF.ZS,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+64,2011,78.8486120012,EN.ATM.CO2E.SF.ZS,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+65,2012,78.3672912482,EN.ATM.CO2E.SF.ZS,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+66,2013,75.4737704344,EN.ATM.CO2E.SF.ZS,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+67,2014,75.1004671479,EN.ATM.CO2E.SF.ZS,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+68,2015,73.9838045233,EN.ATM.CO2E.SF.ZS,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+69,2016,70.8318048951,EN.ATM.CO2E.SF.ZS,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+70,2010,65.6653958122,EN.ATM.CO2E.SF.ZS,IND,India,South Asia,Lower middle income,IBRD
+71,2011,68.7664546229,EN.ATM.CO2E.SF.ZS,IND,India,South Asia,Lower middle income,IBRD
+72,2012,71.4434514322,EN.ATM.CO2E.SF.ZS,IND,India,South Asia,Lower middle income,IBRD
+73,2013,67.4265544206,EN.ATM.CO2E.SF.ZS,IND,India,South Asia,Lower middle income,IBRD
+74,2014,69.6255852251,EN.ATM.CO2E.SF.ZS,IND,India,South Asia,Lower middle income,IBRD
+75,2015,69.2093339751,EN.ATM.CO2E.SF.ZS,IND,India,South Asia,Lower middle income,IBRD
+76,2016,69.4645301565,EN.ATM.CO2E.SF.ZS,IND,India,South Asia,Lower middle income,IBRD
+77,2010,35.4489744793,EN.ATM.CO2E.SF.ZS,USA,United States,North America,High income,Not classified
+78,2011,35.3590657567,EN.ATM.CO2E.SF.ZS,USA,United States,North America,High income,Not classified
+79,2012,32.8481110094,EN.ATM.CO2E.SF.ZS,USA,United States,North America,High income,Not classified
+80,2013,32.4688190785,EN.ATM.CO2E.SF.ZS,USA,United States,North America,High income,Not classified
+81,2014,32.3429000427,EN.ATM.CO2E.SF.ZS,USA,United States,North America,High income,Not classified
+82,2015,29.1570063559,EN.ATM.CO2E.SF.ZS,USA,United States,North America,High income,Not classified
+83,2016,27.0714138697,EN.ATM.CO2E.SF.ZS,USA,United States,North America,High income,Not classified

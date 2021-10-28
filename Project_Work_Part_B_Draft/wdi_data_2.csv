@@ -1,0 +1,71 @@
+,Year,value,indicator,Country Code,Country Name,Region,Income Group,Lending Type
+0,2010,3.2123552635,EG.ELC.RNWX.ZS,CAN,Canada,North America,High income,Not classified
+1,2011,3.2980157845,EG.ELC.RNWX.ZS,CAN,Canada,North America,High income,Not classified
+2,2012,3.5072590792,EG.ELC.RNWX.ZS,CAN,Canada,North America,High income,Not classified
+3,2013,4.4099542274,EG.ELC.RNWX.ZS,CAN,Canada,North America,High income,Not classified
+4,2014,5.5703755599,EG.ELC.RNWX.ZS,CAN,Canada,North America,High income,Not classified
+5,2015,6.2672570594,EG.ELC.RNWX.ZS,CAN,Canada,North America,High income,Not classified
+6,2010,1.6738524027000001,EG.ELC.RNWX.ZS,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+7,2011,2.1376401981,EG.ELC.RNWX.ZS,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+8,2012,2.6575149878,EG.ELC.RNWX.ZS,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+9,2013,3.5648783506,EG.ELC.RNWX.ZS,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+10,2014,4.0566598038,EG.ELC.RNWX.ZS,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+11,2015,4.8570042083,EG.ELC.RNWX.ZS,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+12,2010,3.4780930677,EG.ELC.RNWX.ZS,IND,India,South Asia,Lower middle income,IBRD
+13,2011,3.9547302277,EG.ELC.RNWX.ZS,IND,India,South Asia,Lower middle income,IBRD
+14,2012,4.6436086048,EG.ELC.RNWX.ZS,IND,India,South Asia,Lower middle income,IBRD
+15,2013,4.9606533261,EG.ELC.RNWX.ZS,IND,India,South Asia,Lower middle income,IBRD
+16,2014,5.1736825588,EG.ELC.RNWX.ZS,IND,India,South Asia,Lower middle income,IBRD
+17,2015,5.361011248,EG.ELC.RNWX.ZS,IND,India,South Asia,Lower middle income,IBRD
+18,2010,4.0972927613,EG.ELC.RNWX.ZS,USA,United States,North America,High income,Not classified
+19,2011,4.7896113261,EG.ELC.RNWX.ZS,USA,United States,North America,High income,Not classified
+20,2012,5.4862412559,EG.ELC.RNWX.ZS,USA,United States,North America,High income,Not classified
+21,2013,6.3200092183,EG.ELC.RNWX.ZS,USA,United States,North America,High income,Not classified
+22,2014,6.9000286167,EG.ELC.RNWX.ZS,USA,United States,North America,High income,Not classified
+23,2015,7.3869549514,EG.ELC.RNWX.ZS,USA,United States,North America,High income,Not classified
+24,2010,58.1844015792,EG.ELC.HYRO.ZS,CAN,Canada,North America,High income,Not classified
+25,2011,59.0402343468,EG.ELC.HYRO.ZS,CAN,Canada,North America,High income,Not classified
+26,2012,59.7233020917,EG.ELC.HYRO.ZS,CAN,Canada,North America,High income,Not classified
+27,2013,58.8880788281,EG.ELC.HYRO.ZS,CAN,Canada,North America,High income,Not classified
+28,2014,57.2546166559,EG.ELC.HYRO.ZS,CAN,Canada,North America,High income,Not classified
+29,2015,56.7441929809,EG.ELC.HYRO.ZS,CAN,Canada,North America,High income,Not classified
+30,2010,16.9489736501,EG.ELC.HYRO.ZS,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+31,2011,14.6241302347,EG.ELC.HYRO.ZS,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+32,2012,17.30873395,EG.ELC.HYRO.ZS,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+33,2013,16.7313490296,EG.ELC.HYRO.ZS,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+34,2014,18.5524939792,EG.ELC.HYRO.ZS,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+35,2015,19.0698129654,EG.ELC.HYRO.ZS,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+36,2010,12.5656513678,EG.ELC.HYRO.ZS,IND,India,South Asia,Lower middle income,IBRD
+37,2011,13.3622326288,EG.ELC.HYRO.ZS,IND,India,South Asia,Lower middle income,IBRD
+38,2012,11.0893647561,EG.ELC.HYRO.ZS,IND,India,South Asia,Lower middle income,IBRD
+39,2013,12.3886605002,EG.ELC.HYRO.ZS,IND,India,South Asia,Lower middle income,IBRD
+40,2014,11.0801572566,EG.ELC.HYRO.ZS,IND,India,South Asia,Lower middle income,IBRD
+41,2015,9.9820390975,EG.ELC.HYRO.ZS,IND,India,South Asia,Lower middle income,IBRD
+42,2010,6.0230623859,EG.ELC.HYRO.ZS,USA,United States,North America,High income,Not classified
+43,2011,7.4361021903,EG.ELC.HYRO.ZS,USA,United States,North America,High income,Not classified
+44,2012,6.5211558076,EG.ELC.HYRO.ZS,USA,United States,North America,High income,Not classified
+45,2013,6.317909904,EG.ELC.HYRO.ZS,USA,United States,North America,High income,Not classified
+46,2014,6.0537984736,EG.ELC.HYRO.ZS,USA,United States,North America,High income,Not classified
+47,2015,5.8416382596,EG.ELC.HYRO.ZS,USA,United States,North America,High income,Not classified
+48,2010,15.0131819507,EG.ELC.NUCL.ZS,CAN,Canada,North America,High income,Not classified
+49,2011,14.7078051678,EG.ELC.NUCL.ZS,CAN,Canada,North America,High income,Not classified
+50,2012,14.900157229,EG.ELC.NUCL.ZS,CAN,Canada,North America,High income,Not classified
+51,2013,15.5490082601,EG.ELC.NUCL.ZS,CAN,Canada,North America,High income,Not classified
+52,2014,16.1190749922,EG.ELC.NUCL.ZS,CAN,Canada,North America,High income,Not classified
+53,2015,15.5465605153,EG.ELC.NUCL.ZS,CAN,Canada,North America,High income,Not classified
+54,2010,1.7602194223,EG.ELC.NUCL.ZS,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+55,2011,1.8353358367000001,EG.ELC.NUCL.ZS,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+56,2012,1.9538462650000001,EG.ELC.NUCL.ZS,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+57,2013,2.0530051409,EG.ELC.NUCL.ZS,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+58,2014,2.3392863604,EG.ELC.NUCL.ZS,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+59,2010,2.6818022168,EG.ELC.NUCL.ZS,IND,India,South Asia,Lower middle income,IBRD
+60,2011,3.0047387896,EG.ELC.NUCL.ZS,IND,India,South Asia,Lower middle income,IBRD
+61,2012,2.9264974191,EG.ELC.NUCL.ZS,IND,India,South Asia,Lower middle income,IBRD
+62,2013,2.8740033184,EG.ELC.NUCL.ZS,IND,India,South Asia,Lower middle income,IBRD
+63,2014,2.7906394306999998,EG.ELC.NUCL.ZS,IND,India,South Asia,Lower middle income,IBRD
+64,2010,19.266446091,EG.ELC.NUCL.ZS,USA,United States,North America,High income,Not classified
+65,2011,18.9848461911,EG.ELC.NUCL.ZS,USA,United States,North America,High income,Not classified
+66,2012,18.757919906,EG.ELC.NUCL.ZS,USA,United States,North America,High income,Not classified
+67,2013,19.1738311601,EG.ELC.NUCL.ZS,USA,United States,North America,High income,Not classified
+68,2014,19.2302385003,EG.ELC.NUCL.ZS,USA,United States,North America,High income,Not classified
+69,2015,19.3237776259,EG.ELC.NUCL.ZS,USA,United States,North America,High income,Not classified
