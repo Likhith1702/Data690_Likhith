@@ -26,11 +26,15 @@ The United States of America (USA) has 4.25% of the world’s population and is,
  
 Among these countries, access to electricity is considerably high. In 2015, 100% of the population in the USA, Canada and China had access to electricity. While only 76.3% of the Indian population had access to electricity in the same year. However, we can see that india too had access to most of its population post 2015. As per 2019 nearly 98% of indian population had access to electricity. 
 
+![% population having access to electricity](https://user-images.githubusercontent.com/89957637/141417303-14eb7975-4a2a-4115-b2b4-bd81bc8f203d.png)
+
 # Electricity consumption vs population
 
 Even though there is an immense difference in the population of these countries, the electricity consumption between them is not the same. The USA uses more than 13 times more electricity when compared to India. Canada uses even more than USA. Among the 4 countries Canada uses the most while India uses the lowest energy.
 
 Production disparity of electricity in 2010 between these countries show that these countries did produce the amount of energy that they needed. This indeed show the power consumption and the indirect impact of it on environment amongst these four countries.
+
+![electricity consumed vs population](https://user-images.githubusercontent.com/89957637/141417583-4425206e-00f8-4067-8400-c1eedb8413d2.png)
 
 # Production of electricity among these countries 
 
@@ -43,42 +47,63 @@ The primary fossil fuel that is used for production of electricity is coal, whic
 
 Among these countries the consumption of electricity that is generated using fossil fuels is much higher in China followed by India, the USA is right behind India with regrads to use of fossil fuesls in production of electricity. Canada uses much lower amounts of coal for their electricity prduction needs when compared to other three countries.
 
+![Production of electricity using coal](https://user-images.githubusercontent.com/89957637/141417642-7005b15f-62e3-495c-b208-731c9955b8b2.png)
+
 ## Natural Gases
 
 Production of electricity using natural gases and oil, in 2010 is comparatively low between all the countries. However, amoung these 4 countries, the USA produces the most electricity using gas fuels, in the second place comes India followed by Canada and China. The USA uses almost twice the amount of gaseous fuels than India.
+
+![Production of electricity using Gases](https://user-images.githubusercontent.com/89957637/141417669-ee7d5c97-a26a-44fe-8e29-00be3758d9fb.png)
 
 ## Oil as fuel source 
 
 With regards to electricity produced from oils, all 4 countries use less amount of oil to meet their elelctricity needs. However, amongst these 4 countries India uses compartively more oil fuels to generate electricity. followed by Canada, united states and China. 
 
+![Production of electricity using oils](https://user-images.githubusercontent.com/89957637/141417698-9bddbfef-d541-4381-b62a-2f286c02108d.png)
+
 ## Electricity produced in total by means of fossil fuels.
 
 Among these countries the production of electricity using coal, oil and gas is 81.2% in India, 79.4% in China, 70.27 in USA and 23% in Canada. Taking in to account the electricity produced, the USA and China uses much more fossil fuels to meet their electric production demands. With the scale of these fossil fuels that are used for the production of electricity. It can be said that the polloution caused by this will be much higher and its impact on environment.  
+
+![Production of electricity using Coal, Natural Gas and Natural OIL](https://user-images.githubusercontent.com/89957637/141417733-b01f61ca-2854-4311-8deb-d2368389d6c6.png)
 
 # RENEWABLE ENERGY SOURCES 
 ## Hydroelectric power production 
 
 Hydroelectric sources are the best renewable sources of energy that we can have and amongst them Canada has the highest production capabilities with 58.1% of their total power coming from hydro electric power plants. While in India out of the total electricity produced, 12.5% is of hydro electric sources. While China has 16% of their total. At the same time the USA has 6.0% of their total from the same. This shows that India and China has much potential for hydroelectric power production than the USA.
 
+![Production of Electricity using Hydroelectric power](https://user-images.githubusercontent.com/89957637/141417766-e095db13-374b-4d23-bbbe-66bc6c680bca.png)
+
 ## Other renewable sources used for power production 
 
 Electricity produced among these countries using renewable sources apart from hydroelectricity is considerably higher than other means, Also, In this case USA produces 32.9% of its total electricity from other renewable sources. While India follows with 27.9% and Canada with 25.8% while China has 13.4% of it's total electric producion via other means of sources apart from hydroelelctric sources.
+
+![Production of electricity using other sources apart from hydroelectric power](https://user-images.githubusercontent.com/89957637/141417790-1b536374-eca2-4797-a173-8293c332a4a6.png)
 
 # NUCLEAR POWER PRODUCTION
 
 Nuclear energy is the future of power production amongst many other options. All these countries have access and capabilities for the same. 19.2% of electricity produced in the USA is from nuclear sources. While India has a small footprint of 2.6% while china has a even smaller footprint of 1.7% while on the other hand, Canada produces 15% of their total electricity needs using Nuclear fuel. 
 
+![Production of electricity using Nuclear Energy](https://user-images.githubusercontent.com/89957637/141417823-38f37851-4346-4b8e-ae90-d2d4aafe68a6.png)
+
 # POLLUTION
 
 In 2010, out of the total pollution created by India, 65.6% came from solid fuels. Similarly, the USA had 35.4% of its total pollution due to solid fuels used. While, China contributes 77.6% of its pollution due to solid fuel usage. While Canada has the smallest footprint with 16.7%. Data indicates the amount of pollution created by each country with regards to their usage of fossil fuels. It shows that the USA and China has a larger footprint as they produce more electricity using fossil fuels to meet their needs. 
+
+![CO2 emissions from Solid fuel consuption](https://user-images.githubusercontent.com/89957637/141417901-74576299-fa29-49f3-8643-529ef11508d7.png)
 
 ## CO2 Emmissions from energy and heat production
 
 CO2 emissions from the production of electricity among these countries are as follows. India produces around 51% of its total pollution due to electricity production whereas the USA is about 48.7% of its total, China stands at the top with 52% and Canada with 38.9%. However, With the amount of elelctricity produced, Canada, USA and China with the staggering amounts create a lot of pollution with regards to elelctricity production.   
 
+![CO2 emmissions from Production of electricity and heat](https://user-images.githubusercontent.com/89957637/141417926-9f6f20b0-ede1-4892-8f44-eeaabaa0cc29.png)
+
 ## CO2 emissions (metric tons per capita)
 
 CO2 emissions (metric tons per capita) among these countries show a huge disparity. When it comes to the total CO2 produced, the USA takes the lead by several times when compared, Canada follows USA to second place and India comes in the last. 
+
+![CO2 emissions in total over the years](https://user-images.githubusercontent.com/89957637/141417978-0986de8e-df00-4924-bffe-59033c024852.png)
+![CO2 emissions in total](https://user-images.githubusercontent.com/89957637/141417979-35fe7d8a-b5f6-4a63-8237-89565e6a353d.png)
 
 # CONCLUSION
 
