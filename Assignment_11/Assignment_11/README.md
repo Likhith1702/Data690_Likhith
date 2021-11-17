@@ -9,4 +9,6 @@ While joining data we can check for none values by checking the nan box without 
 
 Depending on the use case and our need we can later join the whole data or just the values that we need for our analysis. 
 
-Functions like binomial, multi-nominal and distribution that are there in this tool which come under one sample distribution data, it is easy to use and all the constarints are mentioned in the description and finally the reports are generated which speicfy its functionality.
+Functions like binomial, multi-nominal and distribution that are there in this tool which come under one sample distribution data, it is easy to use in this tool.
+
+Any and all the constarints that might come up are mentioned in the description and a precise report for the same is generated with exact speicfic functionalities that are used in the anylisis of the date set.
